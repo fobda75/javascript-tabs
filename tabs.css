@@ -19,3 +19,8 @@ body {
     background-color: blue;
     color: aliceblue;
 }
+
+#assigned {
+    background-color: darkslategrey;
+    color: red;
+}
