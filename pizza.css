@@ -7,20 +7,16 @@ body {
     padding: 10px;
 }
 
-#home {
+#create {
     background-color: red;
 }
 
-#shop {
-    background-color: green;
+#address {
+    background-color: yellow;
 }
 
-#contact {
-    background-color: blue;
+#verify {
+    background-color: green;
     color: aliceblue;
 }
 
-#assigned {
-    background-color: darkslategrey;
-    color: red;
-}
